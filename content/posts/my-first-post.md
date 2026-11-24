@@ -23,5 +23,5 @@ Testing 5678
 
 
 
-![a beach](/images/beach.png)
+![](/images/slide4c.jpg)
 
